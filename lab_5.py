@@ -11,3 +11,25 @@ array of strings ("enjoy the excellent band tonight") ["enjoy", "the", "excellen
 After each word is translated, we then
 print out the translated sentence to the user.
 """
+
+
+"""
+main():
+    set sentence = input()
+    set dictionary = create_dictionary()
+    translate(sentence, dictionary)
+
+translate(sentence, dictionary):
+    words = for each of the word, translate the word
+    for each words, translate the word
+    print translated sentencee to user
+
+create_dictionary():
+    read in textese.txt
+    create list - each line from file
+    close the file
+    create a dict off of the list
+    return the dict
+
+main()
+"""
